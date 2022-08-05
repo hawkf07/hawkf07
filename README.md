@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <samp>
     [<a href="mailto:fikrifadilah299@gmail.com">e-mail</a>]
+    [<a href="https://personal-website-three-chi-91.vercel.app/">website</a>]
   </samp>
 </p>
 
