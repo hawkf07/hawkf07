@@ -13,6 +13,3 @@ You can click the Preview link to take a look at your changes.
     [<a href="https://personal-website-three-chi-91.vercel.app/">website</a>]
   </samp>
 </p>
-
-![Hawk's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkf07&theme=onedark&show_icons=true)
-
